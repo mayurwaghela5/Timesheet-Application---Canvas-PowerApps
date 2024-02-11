@@ -32,6 +32,8 @@ Features
 
 ![*SPSave1](./images/4.png "Sharepoint Save - 1")
 
+![*SPSave2](./images/7.png "Sharepoint Save - 2")
+
 Usage
 
     Employee Entry: Employees log in to the Timesheets App and enter their worked hours for the week, selecting appropriate paycodes for each entry.
