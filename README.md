@@ -13,10 +13,24 @@ Tools Used
 Features
 
     Employee Timesheet Submission: Employees can easily enter their worked hours and associated paycodes into the app.
+
+![*FirstScreen](./images/1.png "First Screen")
+    
     Paycode Classification: The app supports various paycodes including regular hours, overtime, sick leave, and more, ensuring accurate tracking of different types of worked hours.
+
+![*PayCodeScreen](./images/3.png "PayCode Screen")
+    
     Submitted timesheets cannot be deleted.
+    
+![*CannotDelete](./images/6.png "Cannot Delete")
+
     Manager Review and Approval: Submitted timesheets are routed to managers for review and approval, streamlining the workflow process.
+
     Integration with SharePoint: Utilizes SharePoint for data storage and management, providing a robust and scalable solution.
+
+![*SPSave](./images/5.png "Sharepoint Save")
+
+![*SPSave1](./images/4.png "Sharepoint Save - 1")
 
 Usage
 
